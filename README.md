@@ -1,4 +1,4 @@
-# Topic-Modelling-With-BERTopic
+# Topic Modelling With BERTopic
 <p align="center">
 </p>
 <img src="https://miro.medium.com/max/773/1*xXZfB_Bvzmd7MFb34LQVOQ.png" width="970" height="520">
